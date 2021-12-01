@@ -1,0 +1,15 @@
+{
+  "app": {
+
+  },
+  "user1": {
+    "name":"nickname1",
+    "birthday": "",
+    "pic": ""
+  },
+  "user2": {
+    "name":"nickname2",
+    "birthday": "",
+    "pic": ""
+  }
+}
